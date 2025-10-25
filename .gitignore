@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+data/
+tennis_atp/
+TML-Database/
+*.csv
+*.ipynb_checkpoints/
